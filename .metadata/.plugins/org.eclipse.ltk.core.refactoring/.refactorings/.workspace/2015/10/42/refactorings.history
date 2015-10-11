@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="删除资源“demo1/demo1/UI/windows/Page1.dsl”" deleteContents="false" description="删除资源“demo1/demo1/UI/windows/Page1.dsl”" element1="/demo1/demo1/UI/windows/Page1.dsl" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1444533159103"/>
+</session>

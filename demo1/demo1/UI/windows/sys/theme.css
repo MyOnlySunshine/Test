@@ -1,0 +1,164 @@
+.basepageclass
+{
+   halign:center;
+   height:fill;
+   ayout:vbox;
+   background:#ffffff;
+   width:fill;
+}
+.navigatorbarclass
+{
+   padding-left:8;
+   padding-right:8;
+   height:44.0;
+   color:#323232;
+   layout:hbox;
+   font-size:17;
+   width:fill;
+   font-family:default;
+   valign:center;
+   background-image:navbar_login.png;
+}
+.buttonclass
+{
+   hAlign:center;
+   color:#ffffff;
+   font-size:20;
+   height:fill;
+   width:44.0;
+   font-family:default;
+   font-pressed-color:#e50011;
+   vAlign:center;
+}
+.ngbbuttonclass
+{
+   hAlign:center;
+   color:#e50011;
+   font-size:20;
+   height:fill;
+   width:44.0;
+   font-family:default;
+   font-pressed-color:#f2adb2;
+   vAlign:center;
+}
+.imagebuttonclass
+{
+   hAlign:center;
+   font-pressed-color:#e50011;
+   color:#919191;
+   font-family:default;
+   vAlign:center;
+   icon-text-spacing:3;
+}
+.buttonnoimgclass
+{
+   background:#F5F5F5;
+   hAlign:center;
+   color:#323232;
+   font-size:17;
+   font-family:default;
+   font-pressed-color:#e50011;
+   vAlign:center;
+}
+.linklabelclass
+{
+   hAlign:center;
+   vAlign:center;
+   color:#00a3e7;
+   font-size:12;
+   font-family:default;
+}
+.loginbuttonclass
+{
+   background:#f7931e;
+}
+.twitterbuttonclass
+{
+   background:#218dd5;
+}
+.facebookbuttonclass
+{
+   background:#415a79;
+}
+.registerbuttonclass
+{
+   background:#f7931e;
+}
+.tbgtopclass
+{
+   height:44;
+   layout:hbox;
+   width:fill;
+   valign:center;
+}
+.tbgtopitemclass
+{
+   hAlign:center;
+   weight:1;
+   width:0;
+   height:44;
+   color:#e50011;
+   font-size:17;
+   font-family:default;
+   vAlign:center;
+   font-pressed-color:#ffffff;
+}
+.exitbuttonclass
+{
+   background:#e50011;
+}
+.actbtnclass
+{
+   font-size:20;
+   background:#FFFFFF;
+   color:#E40011;
+}
+.tabitemclass
+{
+   icon-height:25;
+   height:47.0;
+   color:#919191;
+   font-size:12;
+   width:64.0;
+   weight:1;
+   icon-width:25;
+   font-family:default;
+   font-pressed-color:#e50011;
+   icon-text-spacing:3;
+}
+.toolbartextitem
+{
+   hAlign:center;
+   color:#e50011;
+   font-size:20;
+   height:fill;
+   width:44.0;
+   font-family:default;
+   vAlign:center;
+   font-pressed-color:#f2adb2;
+}
+.textbtnclass
+{
+   hAlign:center;
+   color:#e50011;
+   font-size:17;
+   height:fill;
+   width:44.0;
+   font-family:default;
+   vAlign:center;
+   font-pressed-color:#f2adb2;
+}
+.togglebtnclass
+{
+   color:#333333;
+   font-size:17;
+   font-family:default;
+   font-pressed-color:#e50011;
+}
+.togglebtnitemclass
+{
+   color:#e50011;
+   font-size:17;
+   font-family:default;
+   font-pressed-color:#ffffff;
+}

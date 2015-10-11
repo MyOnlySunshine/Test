@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime" version="1.6.0_45">
+<bootpath>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\resources.jar"/>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\rt.jar"/>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\sunrsasign.jar"/>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\jsse.jar"/>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\jce.jar"/>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\charsets.jar"/>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\modules\jdk.boot.jar"/>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\MyFile\software\programming\android\UAPMobile\UAPMobile_2.7.20150918\Runtime\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
