@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+	<id>ios.webview.basic</id>
+	<version>1.0</version>
+	<name>ios_simple_native_webview</name>
+	<platform>ios</platform>
+  <type>WebView</type>
+	<desc>Basic Web View with native codes test for iphone.</desc>
+	<setting>
+		<wizard name="App Setting" title="Set parameters for app">
+		  <group name="App init URL">
+				<field id="init_page" name="Init page" input="FIELD" defValue="Index.html" />
+				<field id="base_url" name="Base url" input="FIELD" defValue="www" />
+			</group>
+			 <group name="Native code Setting">
+			    <field id="libs" name="Framework dir" input="DIRECTORY" />
+			    <field id="src" name="Sources dir" input="DIRECTORY" />
+       </group>     			
+		</wizard>
+	</setting>
+</template>

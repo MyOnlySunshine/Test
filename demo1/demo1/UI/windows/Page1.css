@@ -1,0 +1,145 @@
+ #Page1 {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #wloginpanel {
+halign:center;
+height:fill;
+background:#f2f2f2;
+width:fill;
+layout:vbox;
+}
+ #wuserpanel {
+margin-right:10;
+height:44;
+width:fill;
+layout:hbox;
+margin-left:10;
+margin-top:10;
+valign:center;
+background-image:textboxbg.png;
+}
+ #wuserimg {
+height:44;
+width:48;
+}
+ #wusertext {
+halign:LEFT;
+height:44;
+color:#a6a6a6;
+width:fill;
+font-size:14;
+font-family:default;
+}
+ #wpasspanel {
+margin-right:10;
+height:44;
+width:fill;
+layout:hbox;
+margin-left:10;
+valign:center;
+background-image:textboxbg.png;
+}
+ #wpassimg {
+height:44;
+width:48;
+}
+ #wpasstext {
+halign:LEFT;
+height:44;
+color:#a6a6a6;
+width:fill;
+font-size:14;
+font-family:default;
+}
+ #wloginbutton {
+margin-right:10;
+height:44;
+width:fill;
+margin-left:10;
+margin-top:15;
+}
+ #wotherpanel {
+margin-right:10;
+height:57;
+width:fill;
+layout:hbox;
+margin-left:10;
+valign:top;
+}
+ #wregisterlabel {
+hAlign:left;
+weight:1;
+height:18.0;
+width:0;
+margin-left:7;
+margin-top:10;
+vAlign:center;
+}
+ #wforgetpasslabel {
+margin-right:7;
+hAlign:right;
+weight:1;
+height:18.0;
+width:0;
+margin-top:10;
+vAlign:center;
+}
+ #wotheruserpanel {
+margin-right:10;
+height:52;
+width:fill;
+layout:hbox;
+margin-left:10;
+valign:center;
+}
+ #wfilllabel1 {
+hAlign:center;
+weight:1;
+height:20;
+width:0;
+font-family:default;
+}
+ #wtencentimage {
+height:50;
+width:50;
+}
+ #wfilllabel2 {
+hAlign:center;
+weight:1;
+height:20;
+width:0;
+font-family:default;
+}
+ #wsinaimage {
+height:50;
+width:50;
+}
+ #wfilllabel3 {
+hAlign:center;
+weight:1;
+height:20;
+width:0;
+font-family:default;
+}
+ #wrenrenimage {
+height:50;
+width:50;
+}
+ #wfilllabel4 {
+hAlign:center;
+weight:1;
+height:20;
+width:0;
+font-family:default;
+}
+

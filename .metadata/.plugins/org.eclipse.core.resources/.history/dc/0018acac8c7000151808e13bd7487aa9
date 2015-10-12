@@ -1,0 +1,33 @@
+ #HomePage {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F7F8F8;
+width:fill;
+valign:TOP;
+}
+ #datepicker0 {
+padding-left:4;
+halign:LEFT;
+height:216;
+background:#ffffff;
+font-size:17;
+width:fill;
+font-family:default;
+}
+ #timepicker0 {
+padding-left:4;
+halign:LEFT;
+height:240.0;
+background:#ffffff;
+font-size:17;
+width:fill;
+font-family:default;
+}

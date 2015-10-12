@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+	<id>ios.cordova.basic</id>
+	<version>1.0</version>
+	<name>ios_simple_native_cordova</name>
+	<platform>ios</platform>
+  <type>Cordova</type>
+	<desc>Basic Cordova with native codes test for iphone.</desc>
+	<setting>
+		<wizard name="App Setting" title="Set parameters for app">
+		  <group name="App init URL">
+				<field id="init_page" name="Init page" input="FIELD" defValue="Index.html" />
+				<field id="base_url" name="Base url" input="FIELD" defValue="www" />
+			</group>
+			 <group name="Native code Setting">
+			    <field id="libs" name="Framework dir" input="DIRECTORY" />
+			    <field id="src" name="Sources dir" input="DIRECTORY" />
+             </group>   
+             <group name="Plugin Setting">
+                <field id="plug_in" name="Plug In" input="CHECKBOX" options="Map,Voice,Picker,Device,Logger,Compass,Accelerometer,Camera,NetworkStatus,Contacts,Debug,Console,Echo,File,FileTransfer,Geolocation,Notification,Media,Capture,SplashScreen,Battery,Settings"
+                />
+             </group>              			
+		</wizard>
+	</setting>
+</template>

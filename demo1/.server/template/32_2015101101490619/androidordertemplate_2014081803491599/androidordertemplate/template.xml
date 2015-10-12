@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+	<id>android.ordertemplate</id>
+	<version>1.0</version>
+	<name>androidordertemplate</name>
+	<platform>android</platform>
+  <type>WebView</type>
+	<desc>Template for order</desc>
+	<setting>
+	</setting>
+</template>

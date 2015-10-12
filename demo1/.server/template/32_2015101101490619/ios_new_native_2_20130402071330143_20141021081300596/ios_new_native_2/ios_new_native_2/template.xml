@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+	<id>ios.new.native2</id>
+	<version>1.0</version>
+	<name>ios_new_native2</name>
+	<platform>ios</platform>
+  <type>WebView</type>
+	<desc>new ios new lib native for iphone.</desc>
+	<setting>
+	</setting>
+</template>

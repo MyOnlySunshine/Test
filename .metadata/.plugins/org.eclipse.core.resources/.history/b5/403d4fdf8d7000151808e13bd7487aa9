@@ -1,0 +1,23 @@
+ #HomePage {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F7F8F8;
+width:fill;
+valign:TOP;
+}
+ #camera0 {
+height:360;
+width:fill;
+}
+ #recorder0 {
+height:50.0;
+width:300;
+}

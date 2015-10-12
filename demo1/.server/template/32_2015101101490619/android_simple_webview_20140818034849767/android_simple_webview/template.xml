@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+	<id>android.webview.basic.test</id>
+	<version>1.0</version>
+	<name>android_simple_webview</name>
+	<platform>android</platform>
+  <type>WebView</type>
+	<desc>Basic Web View test without native codes for android.</desc>
+</template>

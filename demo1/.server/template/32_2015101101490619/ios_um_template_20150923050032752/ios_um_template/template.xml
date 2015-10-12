@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+	<id>ios.um.template</id>
+	<version>1.0</version>
+	<name>ios_um_template</name>
+	<platform>ios</platform>
+  <type>WebView</type>
+	<desc>ios um template</desc>
+	<setting>
+	</setting>
+</template>

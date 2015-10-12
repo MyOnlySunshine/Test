@@ -3,5 +3,7 @@
 <window xmlns:web="http://www.yonyou.com/uapmobile/dsl" id="HomePage" controller="HomePageController" namespace="com.sunshine.demo1">
     <import ref="HomePage.css" type="css"/>
     <link type="text/css" href="sys/theme.css"/>
-    <div id="viewPage0" onload="this.viewPage0_onload()"/> 
+    <div id="viewPage0" onload="this.viewPage0_onload()">
+        <tabbar id="tabbar0"/>
+    </div> 
 </window>

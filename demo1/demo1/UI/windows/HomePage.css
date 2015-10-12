@@ -13,3 +13,10 @@ background:#F7F8F8;
 width:fill;
 valign:TOP;
 }
+ #tabbar0 {
+halign:CENTER;
+height:49;
+layout:hbox;
+width:fill;
+valign:top;
+}

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<application id="demo1" appname="demo1" versionCode="1" versionName="1" icon="app" theme="blue" jsengine="v2.0" package="com.sunshine.demo1" language="zh_cn" autoCheckUpdate="false"> 
+<application id="demo1" appname="测试" versionCode="1" versionName="1" icon="app" theme="ios7" jsengine="v2.0" package="com.sunshine.demo1" language="zh_cn" autoCheckUpdate="false" isLibrary="false"> 
   <permission id="internet"/>  
-  <start view="HomePage"/>  
+  <start view="Page1"/>  
   <!--view id="demo" ref="demo.dsl"><extend screenOrientation="landscape|portrait|unspecified"/></view-->  
   <!--view id="demo" ref="demo.dsl"><extend windowSoftInputMode="stateUnspecified|stateUnchanged|stateHidden|stateAlwaysHidden|stateVisible|stateAlwaysVisible|adjustUnspecified|adjustResize|adjustPan"/></view-->  
-  <view id="HomePage" ref="HomePage.dsl" include="true"/> 
+  <view id="HomePage" ref="HomePage.dsl" include="true"/>  
+  <view id="Page1" ref="Page1.dsl" include="true"/> 
 </application>
 <!--
 【屏幕显示方向】

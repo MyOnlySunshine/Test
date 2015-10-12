@@ -1,0 +1,4 @@
+com.yonyou.uap.ump.editor.common.enabledSpellingScopes=comment.block.documentation,comment.block,comment.line
+com.yonyou.uap.ump.editor.common.taskTagNames=FIXME,TODO
+com.yonyou.uap.ump.editor.common.taskTagPriorities=High,Normal
+eclipse.preferences.version=1
